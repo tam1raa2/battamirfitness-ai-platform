@@ -1,0 +1,25 @@
+{
+  "name": "battamirfitness-ai-platform",
+  "version": "1.0.0",
+  "description": "AI-powered fitness and nutrition platform with personalized workout plans",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "deploy": "git push origin main"
+  },
+  "keywords": [
+    "fitness",
+    "ai",
+    "workout",
+    "nutrition",
+    "health",
+    "personalized",
+    "gym"
+  ],
+  "author": "tam1raa2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tam1raa2/battamirfitness-ai-platform.git"
+  }
+}
